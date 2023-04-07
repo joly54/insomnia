@@ -1,0 +1,21 @@
+_id: req_aa6f4c4da456478480cbfc8f1ff65a54
+type: Request
+parentId: wrk_0ebbbe6bd1d249b98c2d03e5da95daa0
+modified: 1680900123226
+created: 1680772190152
+url: http://testaccjgh.pythonanywhere.com/getDay?date=2023.01.01
+name: by date
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1680772190152
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

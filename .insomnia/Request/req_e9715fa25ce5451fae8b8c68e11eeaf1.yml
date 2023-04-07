@@ -1,0 +1,45 @@
+_id: req_e9715fa25ce5451fae8b8c68e11eeaf1
+type: Request
+parentId: wrk_0ebbbe6bd1d249b98c2d03e5da95daa0
+modified: 1680899929745
+created: 1680711515444
+url: http://testaccjgh.pythonanywhere.com/buyTicket
+name: buy
+description: ""
+method: POST
+body: {}
+parameters: []
+headers:
+  - id: pair_0c4da7d009cd45729941e2007760edba
+    name: token
+    value: qlousrfrmmweluaqolbncfgdktqrmxvj
+    description: ""
+  - id: pair_0510a2d23b034be2b609835d9dff2015
+    name: date
+    value: 2023.01.01
+    description: ""
+  - id: pair_83d9259718894bd59da281c28cb3486f
+    name: title
+    value: "Avengers: Endgame"
+    description: ""
+  - id: pair_d3ae3705fff548b78b9a38b4a732662f
+    name: number
+    value: "45"
+    description: ""
+  - id: pair_7f3108062f834cc3a323e8d506c09e51
+    name: time
+    value: 10:00
+    description: ""
+  - id: pair_22c47b3775214ea69dcaaac62cc5624b
+    name: username
+    value: danyla958@gmail.com
+    description: ""
+authentication: {}
+metaSortKey: -1680711515444
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

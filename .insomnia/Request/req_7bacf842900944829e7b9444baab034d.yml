@@ -1,0 +1,21 @@
+_id: req_7bacf842900944829e7b9444baab034d
+type: Request
+parentId: wrk_0ebbbe6bd1d249b98c2d03e5da95daa0
+modified: 1680693574875
+created: 1680693529425
+url: http://127.0.0.1:5000/forgot-password?username=danyla958@gmail.com
+name: Fogot password
+description: ""
+method: POST
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1680693529425
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
